@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>HTML5 Canvas</title>
+  <script src="https://kit.fontawesome.com/cb8a33a716.js" crossorigin="anonymous"></script>
+</head>
+<body>
+  <div class="container">
+    <canvas id="draw" width="800" height="800"></canvas>
+  </div>
+  <style>
+    html,
+    body {
+      margin: 0;
+    }
+
+    .container {
+      position: relative;
+    }
+
+    canvas {
+      position: absolute;
+      top: 0;
+      left: 0;
+    }
+
+    .user-cursor {
+      position: absolute;
+      pointer-events: none;
+    }
+
+    .user-cursor i {
+      font-size: 25px;
+    }
+
+    .user-cursor span {
+      display: block;
+      margin-left: -10px;
+      font-size: 14px;
+      margin-top: 5px;
+      font-family: cursive;
+    }
+  </style>
+  <script src="canvas-drawing.js"></script>
+</body>
+</html>
