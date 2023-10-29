@@ -1,6 +1,6 @@
 # Real-Time Canvas Party
 
-Real-Time Canvas Party is an interactive web application that allows users to draw and collaborate on a shared canvas in real-time using HTML5 Canvas, CSS, JavaScript, Express.js, and WebSocket. It's the perfect platform for a fun and creative DrawTogether experience!
+Real-Time Canvas Party is an interactive web app that allows users to draw and collaborate on a shared canvas in real-time. Built using HTML5 Canvas, CSS, JavaScript, Express.js, and WebSocket.
 
 ![Real-Time Canvas Party Preview](https://github.com/somayehva/Real-Time-Canvas-Party/blob/main/Fun%20With%20Canvas.png)
 
