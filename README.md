@@ -6,7 +6,7 @@ Real-Time Canvas Party is an interactive web app that allows users to draw and c
 
 ## Demo
 
-You can access the live demo of Real-Time Canvas Party [here](link-to-your-live-demo).
+You can access the live demo of Real-Time Canvas Party [here](http://canvas.somayeh.me/).
 
 ## Features
 
